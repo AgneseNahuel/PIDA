@@ -6,6 +6,7 @@ Todo el ETL fue guardado en un .csv para su utilizacion en PowerBI.
 #   PowerBI
 
 El problema de hacer el Dashboard fue con los KPIs, quise contar una historia centrada en las victimas y en el entorno, por eso los mapas que use con las coordenadas, tuve problemas con los datos pero los solucione dentro del programa.
+Al no poder hacer el KPI desde metricas decido hacer un KPI desde Visual Studio en una tabla diferente.
 
 #                                       CONCLUSIONES
 
