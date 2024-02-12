@@ -3,10 +3,12 @@
 El proyecto fue empezado por la descarga de los archivos .xlsx, el archivo fue leido con Pandas e investigado, primero el ETL, me fue necesario hacer algunas partes del EDA dentro para poder limpiar los datos y poder hacer un "merge" entre los DataFrames. El EDA fue sencillo, vi que tal estaban los datos y despues pase directo a hacer graficos que me den informacion, mayormente centrado en la variables de "Num víctimas", series de tiempo y la edad...
 Todo el ETL fue guardado en un .csv para su utilizacion en PowerBI.
 
+
 #   PowerBI
 
 El problema de hacer el Dashboard fue con los KPIs, quise contar una historia centrada en las victimas y en el entorno, por eso los mapas que use con las coordenadas, tuve problemas con los datos pero los solucione dentro del programa.
-Al no poder hacer el KPI desde metricas decido hacer un KPI desde Visual Studio en una tabla diferente.
+Al no poder hacer el KPI desde metricas decido hacer un KPI desde Visual Studio en una tabla diferente, este me funciona para hacer un tipo de grafico que muestra la tasa de los 3 KPIs que hice.
+Consigo hacer con metricas los KPIs despues de mucho esfuerzo, me doy cuenta que los puedo presentar en Tasas o en suma de victimas, el segundo me parecia mas facil de explicar pero el primer KPI pedia la tasa y no la reduccion de victimas como el segundo, asique me mantengo a las consignas y hago el primero con la tasa y los otros 2 con la suma de victimas.
 
 #                                       CONCLUSIONES
 
