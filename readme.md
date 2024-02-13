@@ -1,6 +1,10 @@
 #   Proyecto PI DATA ANALYTIC
 
-El proyecto fue empezado por la descarga de los archivos .xlsx, el archivo fue leido con Pandas e investigado, primero el ETL, me fue necesario hacer algunas partes del EDA dentro para poder limpiar los datos y poder hacer un "merge" entre los DataFrames. El EDA fue sencillo, vi que tal estaban los datos y despues pase directo a hacer graficos que me den informacion, mayormente centrado en la variables de "Num víctimas", series de tiempo y la edad...
+Proyecto basado en Siniestros Viales!, se busca entender y sacar informacion util con un DataSet .xlsx, a lo largo del trabajo se transforman, acomodan los datos y su utilizacion en PowerBI, leer atentamente el readme.md va a dar al que analiza el Trabajo Practico un paneo general de lo que hice y lo que quise hacer.
+
+#   ETL-EDA
+
+El proyecto fue empezado por la descarga de los archivos .xlsx, el archivo fue leido con Pandas e investigado, primero el ETL, me fue necesario hacer algunas partes del EDA dentro para poder limpiar los datos y hacer un "merge" entre los DataFrames. El EDA fue sencillo, vi que tal estaban los datos y despues pase directo a hacer graficos que me den informacion, mayormente centrado en la variables de "Num víctimas", series de tiempo y la edad...
 Todo el ETL fue guardado en un .csv para su utilizacion en PowerBI.
 
 
