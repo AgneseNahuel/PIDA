@@ -18,7 +18,7 @@ Consigo hacer con metricas los KPIs despues de mucho esfuerzo, me doy cuenta que
 
 - Las victimas en su mayoria son 1 sola.
 - En el año 2020 la pandemia afecto positivamente, no habia tantos siniestros por la falta de personas en la calle.
-- El 75% de las victimas es menos a 55 años.
+- El 75% de las victimas es menor a 55 años.
 - Los hombres victimas son en gran parte desde 20 a 40 años y las mujeres rondando los 60.
 - Las Avenidas son los lugares donde mas siniestros hay.
 - Los autos son los mas peligrosos.
